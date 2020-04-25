@@ -6,7 +6,7 @@ gh_org = "demo-terraform"
 gh_teams = ["devops", "infrastructure", "frontend", "managers"]
 
 # Team members
-team_managers       = ["Ogguz"]
+team_managers       = ["Ogguz","cu12"]
 team_devops         = ["Ogguz","hededebe"]
 team_frontend       = ["Ogguz"]
 team_infrastructure = ["Ogguz"]
