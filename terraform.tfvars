@@ -12,4 +12,4 @@ team_frontend       = ["Ogguz"]
 team_infrastructure = ["Ogguz"]
 
 # All users
-all_users = ["Ogguz", "hededebe","Meliih"]
+all_users = ["Ogguz", "hededebe","Meliih", "cu12"]
